@@ -1,0 +1,13 @@
+{
+  "$schema": "https://service-lasso.local/schemas/electron-app-config.json",
+  "productName": "Service Lasso App Electron",
+  "version": "0.1.0",
+  "identifier": "io.service-lasso.app-electron",
+  "window": {
+    "title": "Service Lasso Electron Shell",
+    "url": "http://127.0.0.1:19160",
+    "width": 1440,
+    "height": 960,
+    "resizable": true
+  }
+}
